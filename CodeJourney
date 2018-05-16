@@ -8,9 +8,11 @@
 
 4. Install XCode (version for your OSX) 
 
-5. Install Homebrew 
+5. Install Homebrew (ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+"brew update" will update
 
-6. Install Node Project Manager
+6. Install Node Project Manager ("brew install node" and you get node.js, python, and npm in one)
+
 
 7. Try website jsfiddle.com
 
